@@ -5,6 +5,7 @@ DMAMS is a program written in Ruby ver. 2.4.
 The program detects genetic signature associated with selective sweep within the population.
 
 Referene: Identifying potentially beneficial genetic mutations associated with monophyletic selective sweep and a proof-of-concept study with viral genetic data. Furuse Y. mSystems; 2021 Feb 23;6(1):e01151-20.
+
 DOI: 10.1128/mSystems.01151-20
 
 To run the script, the followings are required:
