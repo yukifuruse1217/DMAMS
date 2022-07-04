@@ -48,7 +48,7 @@ To run the DMAMS program, five arguments are required:
 
 Example command:
 
-**ruby DMAMS_ver1.21.rb example.fas example.nwk pro 0.05 test.csv**
+**ruby DMAMS_ver1.211.rb example.fas example.nwk pro 0.05 test.csv**
 
 
 Sequence file should be in single-line fasta format; the first sequence should be outgroup.
