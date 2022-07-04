@@ -15,7 +15,7 @@
 # 4) minimum_size_of_sequences_for_clustering, and
 # 5) output_file_name.
 #
-# Example command: ruby DMAMS_ver1.21.rb example.fas example.nwk pro 0.05 test.csv
+# Example command: ruby DMAMS_ver1.211.rb example.fas example.nwk pro 0.05 test.csv
 #
 #
 # Sequence file should be in single-line fasta format; the first sequence should be outgroup.
