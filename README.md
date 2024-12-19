@@ -12,22 +12,24 @@ DOI: 10.1128/mSystems.01151-20
         
         
         
+        
+        
 
 
 
 To run the script, the followings are required:
 
-'fileutils'
+'nokogiri'
+
+   "gem install nokogiri -v 1.11.7"
+
+'fileutils' & 'machanize'
 
    "gem install mechanize" for installation
 
 'spreadsheet'
 
    "gem install spreadsheet" for installation
-
-'machanize'
-
-   "gem install mechanize"
 
 'daru'
 
